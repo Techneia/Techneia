@@ -80,5 +80,5 @@ Estamos orgullosos de nuestros proyectos exitosos que han ayudado a diversas emp
 Para más información sobre nuestros servicios o para discutir cómo podemos ayudar a tu empresa, no dudes en ponerte en contacto con nosotros:
 
 - **Web:** [techneia.com](https://www.techneia.com)
-- **Email:** techneiaweb@gmail.com.com
+- **Email:** techneiaweb@gmail.com
 - **LinkedIn:** [[linkedin.com/company/techneia](https://www.linkedin.com/company/techneia)](https://www.linkedin.com/company/techneia/)
